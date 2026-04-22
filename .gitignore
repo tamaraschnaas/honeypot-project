@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env files
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Docker / local data
+postgres_data/
+cowrie_var/
+cowrie_etc/
+
+# Misc
+*.sqlite3
+
